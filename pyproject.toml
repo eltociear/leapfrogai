@@ -36,6 +36,7 @@ vllm = [
     "vllm==0.3.2",
     "python-dotenv>=1.0.1",
     "aiostream>=0.5.2",
+    "confz>=2.0.1"
 ]
 
 text-embeddings = [
